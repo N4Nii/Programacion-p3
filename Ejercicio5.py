@@ -87,7 +87,6 @@ def mostrar_menu():
     print("="*40)
 
 def main():
-    """Función principal del programa"""
     
     
     try:
